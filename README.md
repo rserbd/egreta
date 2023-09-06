@@ -1,8 +1,8 @@
 # Egreta
 
-1. Pornirea aplicației server:
+# 1. Pornirea aplicației server:
 
-din folderul root fish-project
+- din folderul root fish-project
 	cd be
 	npm install
 	npm start
@@ -10,7 +10,7 @@ din folderul root fish-project
 Aplicația server rulează cu succes după afișarea mesajului 
 "Nest application successfully started" în terminal.	
 
-2. Pornirea aplicației client:
+# 2. Pornirea aplicației client:
 
 - din folderul root fish-project
 	cd fe
@@ -20,4 +20,4 @@ Aplicația server rulează cu succes după afișarea mesajului
 Aplicația client rulează cu succes după afișarea mesajului 
 "webpack compiled successfully"
 
-Se accesează http://localhost:3000
+# 3. Se accesează http://localhost:3000
