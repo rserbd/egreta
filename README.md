@@ -3,8 +3,8 @@
 # 1. Pornirea aplicației server:
 
 - din folderul root fish-project
-	cd be
-	npm install
+	cd be,
+	npm install,
 	npm start
 
 Aplicația server rulează cu succes după afișarea mesajului 
@@ -13,8 +13,8 @@ Aplicația server rulează cu succes după afișarea mesajului
 # 2. Pornirea aplicației client:
 
 - din folderul root fish-project
-	cd fe
-	npm install
+	cd fe,
+	npm install,
 	npm start
 
 Aplicația client rulează cu succes după afișarea mesajului 
